@@ -1,6 +1,6 @@
 # 💧 Sistema de Predicción de Turbidez del Agua con KNN
 
-#![Integrales proyectivas](ruta/a/la/imagen.png)
+![Integrales proyectivas](integrales.png)
 
 ---
 
@@ -104,7 +104,7 @@ Por ello, es crucial **expandir el entrenamiento** del modelo para mejorar su ad
 
 > A continuación, se muestra la imagen representativa con el uso de integrales proyectivas:
 
-![Integrales Proyectivas](ruta/a/la/imagen.png)
+![Integrales Proyectivas](integrales.png)
 
 ---
 
@@ -119,10 +119,5 @@ Universidad de Pamplona – Ingeniería Electrónica
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/usuario/repositorio.git
+https://github.com/adarevalin/Modelo_turbidez_de_agua.git
 
-# Instalar dependencias
-pip install -r requirements.txt
-
-# Ejecutar el modelo
-python main.py
